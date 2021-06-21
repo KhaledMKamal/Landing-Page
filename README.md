@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
- * Description
+ * Description.
  * Navigation menu
  * Scroll to section
  * Section in view
